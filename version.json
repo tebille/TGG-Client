@@ -1,7 +1,7 @@
 {
- "build": "2026-11-05 14:12 UTC",
+ "build": "2026-11-05 14:56 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "2b0dd930a21064d77838a46b30b07602d37c7860f99fa374725e08be25ca68ee",
- "size": 48292465,
- "notes": "무기고 검색·아이콘 보기, 자동 업데이트"
+ "sha256": "e04e31affbbf5d6bb92b99b8039897e3c1e8b68f4c17304ed24a6df42aa933a0",
+ "size": 48294347,
+ "notes": "신무기 스킬 모션은 서버가 실제로 쓸 때만, 톱 텍스처(애니메이션 프레임) 수정"
 }
