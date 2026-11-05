@@ -1,7 +1,7 @@
 {
- "build": "2026-11-05 14:56 UTC",
+ "build": "2026-11-05 15:31 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "e04e31affbbf5d6bb92b99b8039897e3c1e8b68f4c17304ed24a6df42aa933a0",
- "size": 48294347,
- "notes": "신무기 스킬 모션은 서버가 실제로 쓸 때만, 톱 텍스처(애니메이션 프레임) 수정"
+ "sha256": "ec09113cb75b70e692e6df5e6d34a7903c7cea7783ccf7ca3295830212ab490f",
+ "size": 48064471,
+ "notes": "총 재장전·볼트액션·펌프 시간을 서버와 똑같이 맞춤(1·3인칭), 탄창 빼기/넣기 모션 추가"
 }
