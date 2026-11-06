@@ -1,8 +1,8 @@
 {
- "version": "0.2.8",
- "build": "2026-11-06 12:36 UTC",
+ "version": "0.2.9",
+ "build": "2026-11-06 13:37 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "28dddebdd826886f4f6781b69a4fe19da1a99c802212b6a1b2667a1e9834c85e",
- "size": 48336526,
- "notes": "0.2.8: M200 조준경 위치, 미니건 1인칭 크기"
+ "sha256": "b242fb3ef348933362dff35128bab6520bcd3a4ee7db81284585b12be738aa7f",
+ "size": 48338129,
+ "notes": "0.2.9: 엎드리기 키(Z)·포복 자세, 3인칭 재장전 시 총 오른손 고정"
 }
