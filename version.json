@@ -1,7 +1,8 @@
 {
- "build": "2026-11-06 09:21 UTC",
+ "version": "0.2.0",
+ "build": "2026-11-06 09:37 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "cc813dc85d4cf28b4402efc1b3bc4ebf0dfba45341bdd05d1a9ac184d2e153a9",
- "size": 48286400,
- "notes": "스커머너 감염된 쥐 등 소환 몹 모델이 안 보이던 것, 폭탄 설치·좀비 스킬 뒤 몸통이 삐뚤어져 남던 것 수정"
+ "sha256": "5318ea866e5adc18098bf1da7791692525c6dfdd9e174f03d8d93c1d98961163",
+ "size": 48290651,
+ "notes": "0.2.0: 스커머너 쥐 등 숨겨진 ModelEngine 몹 표시, 몹 애니메이션 텍스처, 몸통 삐뚤어짐 수정"
 }
