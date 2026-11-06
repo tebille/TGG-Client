@@ -1,7 +1,7 @@
 {
- "build": "2026-11-06 00:41 UTC",
+ "build": "2026-11-06 05:11 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "1859b8c21ef274a097c4e9bcda24a934715c40e97a26c3a4454f80462d6042e7",
- "size": 48065603,
- "notes": "1인칭 톱날·불꽃 등 애니메이션 텍스처 수정, 앞뒤 뒤집힌 총 24자루, 칼날을 잡던 근접무기 18종 수정"
+ "sha256": "b66e948372fe6631fdf71194fe3786b27fe95f4d8336b5ab9b5a68177f0c43a7",
+ "size": 48208434,
+ "notes": "GUI 전면 리워크: 메인 메뉴(한 화면 타일), 내 정보(내 스킨), 해독기, 강화(망치 연출+OOX), 무기고(내 스킨 3인칭 발사 미리보기·특수능력 설명)"
 }
