@@ -1,8 +1,8 @@
 {
- "version": "0.3.5",
- "build": "2026-11-06 15:57 UTC",
+ "version": "0.3.6",
+ "build": "2026-11-06 17:10 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "2d357bcb366bf7131b3be9f4e854767e7d6778949310cdaed38087e65bb9bc96",
- "size": 49031861,
- "notes": "0.3.5: Sodium 사용 시에도 파티클 불투명도 설정이 적용되도록 수정"
+ "sha256": "b877cb6ef96d0e83b3173e780afea1c06d26c83566aefffb8b9e425663de0027",
+ "size": 50120566,
+ "notes": "0.3.6: 좀비 추격 음악(chase) 새 버전으로 교체"
 }
