@@ -1,7 +1,7 @@
 {
- "build": "2026-11-05 15:31 UTC",
+ "build": "2026-11-06 00:41 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "ec09113cb75b70e692e6df5e6d34a7903c7cea7783ccf7ca3295830212ab490f",
- "size": 48064471,
- "notes": "총 재장전·볼트액션·펌프 시간을 서버와 똑같이 맞춤(1·3인칭), 탄창 빼기/넣기 모션 추가"
+ "sha256": "1859b8c21ef274a097c4e9bcda24a934715c40e97a26c3a4454f80462d6042e7",
+ "size": 48065603,
+ "notes": "1인칭 톱날·불꽃 등 애니메이션 텍스처 수정, 앞뒤 뒤집힌 총 24자루, 칼날을 잡던 근접무기 18종 수정"
 }
