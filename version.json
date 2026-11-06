@@ -1,7 +1,7 @@
 {
- "build": "2026-11-06 05:11 UTC",
+ "build": "2026-11-06 08:12 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "b66e948372fe6631fdf71194fe3786b27fe95f4d8336b5ab9b5a68177f0c43a7",
- "size": 48208434,
- "notes": "GUI 전면 리워크: 메인 메뉴(한 화면 타일), 내 정보(내 스킨), 해독기, 강화(망치 연출+OOX), 무기고(내 스킨 3인칭 발사 미리보기·특수능력 설명)"
+ "sha256": "3104bfbd88a4e41d47f7f919464b742b880ad1d14ca4c8de4b0149dbd5017916",
+ "size": 48210967,
+ "notes": "후원·디스코드 메뉴 타일과 아이콘, 조준 시 '쇠뇌' 글씨 숨김"
 }
