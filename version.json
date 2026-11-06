@@ -1,8 +1,8 @@
 {
- "version": "0.2.5",
- "build": "2026-11-06 12:12 UTC",
+ "version": "0.2.6",
+ "build": "2026-11-06 12:17 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "c8e38857c1dc7e303c30cd240157bbcd8c1df3994183a7f67b0380c295202ea4",
- "size": 48330183,
- "notes": "0.2.5: 방검복·방어막 표시, 듀얼 우지/MP7A1, 볼트·재장전 끊김 수정"
+ "sha256": "a5867e6c1103ddfa7bdb515d19b52432f40902a99dc4505cf51d56546fd30c50",
+ "size": 48336488,
+ "notes": "0.2.6: 메뉴 안에서 서버 안내를 알림창으로 표시"
 }
