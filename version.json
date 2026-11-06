@@ -1,8 +1,8 @@
 {
- "version": "0.2.1",
- "build": "2026-11-06 09:43 UTC",
+ "version": "0.2.2",
+ "build": "2026-11-06 09:47 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "c246fe2bd58624492ea700ef5fffd83675cbd41b0c8e8c87cea723c8ac64c9ec",
- "size": 48311539,
- "notes": "0.2.1: 생체통로가 철조각으로 보이던 문제 수정"
+ "sha256": "4688a4f7dac0f14fe0f598042cdfaacc5c3db717f9fe8f34b052384bd666694b",
+ "size": 48313022,
+ "notes": "0.2.2: 게임 중 새 버전이 나오면 한 번 알림"
 }
