@@ -1,8 +1,8 @@
 {
- "version": "0.3.6",
- "build": "2026-11-06 17:10 UTC",
+ "version": "0.3.7",
+ "build": "2026-11-06 17:35 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "b877cb6ef96d0e83b3173e780afea1c06d26c83566aefffb8b9e425663de0027",
- "size": 50120566,
- "notes": "0.3.6: 좀비 추격 음악(chase) 새 버전으로 교체"
+ "sha256": "fb9ce7a1a6187daa2a69c182d9afd32bf9a9f7b7580c421011d2d0b89a70f892",
+ "size": 50123486,
+ "notes": "0.3.7: 메뉴 전환 깜빡임 제거, 적·좀비 체력 표시 수정"
 }
