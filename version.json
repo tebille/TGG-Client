@@ -1,8 +1,8 @@
 {
- "version": "0.2.0",
- "build": "2026-11-06 09:37 UTC",
+ "version": "0.2.1",
+ "build": "2026-11-06 09:43 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "5318ea866e5adc18098bf1da7791692525c6dfdd9e174f03d8d93c1d98961163",
- "size": 48290651,
- "notes": "0.2.0: 스커머너 쥐 등 숨겨진 ModelEngine 몹 표시, 몹 애니메이션 텍스처, 몸통 삐뚤어짐 수정"
+ "sha256": "c246fe2bd58624492ea700ef5fffd83675cbd41b0c8e8c87cea723c8ac64c9ec",
+ "size": 48311539,
+ "notes": "0.2.1: 생체통로가 철조각으로 보이던 문제 수정"
 }
