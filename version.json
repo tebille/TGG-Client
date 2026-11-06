@@ -1,8 +1,8 @@
 {
- "version": "0.3.3",
- "build": "2026-11-06 15:13 UTC",
+ "version": "0.3.4",
+ "build": "2026-11-06 15:27 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "2875a2d64ce8dd36cd70e6b74fecae7357d1f05efdcc9929b0ec01eccdadc7e6",
- "size": 49031868,
- "notes": "0.3.3: 조준·저격 감도 설정, 시작 시 업데이트 강제, 저격 스코프 확대, M200 탄창, 메뉴 Shift 클릭"
+ "sha256": "94291430540abb7aa620cfcb498f320b0508ce6e20d3591b3d1a0ec60278c876",
+ "size": 49032627,
+ "notes": "0.3.4: 조준 배율 / 저격·스코프 배율 설정 추가"
 }
