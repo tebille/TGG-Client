@@ -1,8 +1,8 @@
 {
- "version": "0.3.2",
- "build": "2026-11-06 14:29 UTC",
+ "version": "0.3.3",
+ "build": "2026-11-06 15:13 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "7ccda37cecd98c7f0143d17a9b346c614f017f99e17aad4fdc82df500bfb31fc",
- "size": 49026880,
- "notes": "0.3.2: 좀비 평타(좌클) 3인칭 모션 추가(할퀴기·내려찍기·긁기)"
+ "sha256": "2875a2d64ce8dd36cd70e6b74fecae7357d1f05efdcc9929b0ec01eccdadc7e6",
+ "size": 49031868,
+ "notes": "0.3.3: 조준·저격 감도 설정, 시작 시 업데이트 강제, 저격 스코프 확대, M200 탄창, 메뉴 Shift 클릭"
 }
