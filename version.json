@@ -1,8 +1,8 @@
 {
- "version": "0.2.2",
- "build": "2026-11-06 09:47 UTC",
+ "version": "0.2.3",
+ "build": "2026-11-06 11:21 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "4688a4f7dac0f14fe0f598042cdfaacc5c3db717f9fe8f34b052384bd666694b",
- "size": 48313022,
- "notes": "0.2.2: 게임 중 새 버전이 나오면 한 번 알림"
+ "sha256": "45dcfc6523083a3acb3c79f5d04c1e9a14cd09db98d6afc7c801ff23c814213a",
+ "size": 48321763,
+ "notes": "0.2.3: 메뉴 더블클릭 수정, 구매 확인 창, 다른 플레이어 근접무기 철조각 수정(서버), 음악"
 }
