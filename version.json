@@ -1,8 +1,8 @@
 {
- "version": "0.2.4",
- "build": "2026-11-06 11:51 UTC",
+ "version": "0.2.5",
+ "build": "2026-11-06 12:12 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "127cd7d4cb14aaed7bf1eb0d0116e6ed00d470b0d65307684f52b3eee0a59eb6",
- "size": 48327296,
- "notes": "0.2.4: 적 체력 HUD"
+ "sha256": "c8e38857c1dc7e303c30cd240157bbcd8c1df3994183a7f67b0380c295202ea4",
+ "size": 48330183,
+ "notes": "0.2.5: 방검복·방어막 표시, 듀얼 우지/MP7A1, 볼트·재장전 끊김 수정"
 }
