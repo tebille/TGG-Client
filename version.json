@@ -1,7 +1,7 @@
 {
- "build": "2026-11-06 08:12 UTC",
+ "build": "2026-11-06 08:56 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "3104bfbd88a4e41d47f7f919464b742b880ad1d14ca4c8de4b0149dbd5017916",
- "size": 48210967,
- "notes": "후원·디스코드 메뉴 타일과 아이콘, 조준 시 '쇠뇌' 글씨 숨김"
+ "sha256": "35c24854c4f255fe97bac3689d642fa9e12c61969a3b7286e43791225df85adb",
+ "size": 48286105,
+ "notes": "메뉴 아이콘 전체를 항목별 그림으로, 보조 동작은 아이콘 버튼, 휴대폰 화면에서 글자 잘림 개선"
 }
