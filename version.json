@@ -1,8 +1,8 @@
 {
- "version": "0.2.9",
- "build": "2026-11-06 13:37 UTC",
+ "version": "0.3.0",
+ "build": "2026-11-06 14:07 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "b242fb3ef348933362dff35128bab6520bcd3a4ee7db81284585b12be738aa7f",
- "size": 48338129,
- "notes": "0.2.9: 엎드리기 키(Z)·포복 자세, 3인칭 재장전 시 총 오른손 고정"
+ "sha256": "252dfd88b59d848570fcc3f1e5208fbe4181b64ce4a81a85bb61ee5301f90b48",
+ "size": 48351615,
+ "notes": "0.3.0: 총알 빛줄기, 이펙트·파티클 불투명도 설정"
 }
