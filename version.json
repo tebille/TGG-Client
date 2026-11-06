@@ -1,8 +1,8 @@
 {
- "version": "0.3.4",
- "build": "2026-11-06 15:27 UTC",
+ "version": "0.3.5",
+ "build": "2026-11-06 15:57 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "94291430540abb7aa620cfcb498f320b0508ce6e20d3591b3d1a0ec60278c876",
- "size": 49032627,
- "notes": "0.3.4: 조준 배율 / 저격·스코프 배율 설정 추가"
+ "sha256": "2d357bcb366bf7131b3be9f4e854767e7d6778949310cdaed38087e65bb9bc96",
+ "size": 49031861,
+ "notes": "0.3.5: Sodium 사용 시에도 파티클 불투명도 설정이 적용되도록 수정"
 }
