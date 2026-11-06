@@ -1,8 +1,8 @@
 {
- "version": "0.3.0",
- "build": "2026-11-06 14:07 UTC",
+ "version": "0.3.1",
+ "build": "2026-11-06 14:27 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "252dfd88b59d848570fcc3f1e5208fbe4181b64ce4a81a85bb61ee5301f90b48",
- "size": 48351615,
- "notes": "0.3.0: 총알 빛줄기, 이펙트·파티클 불투명도 설정"
+ "sha256": "3e8fc9fd67c3a16aa06e5dd104532e6a05669286578bc08e18de52179ae185cc",
+ "size": 49024089,
+ "notes": "0.3.1: 총 소리 31종 적용(발사·장전·볼트·탄피 등)"
 }
