@@ -1,8 +1,8 @@
 {
- "version": "0.3.1",
- "build": "2026-11-06 14:27 UTC",
+ "version": "0.3.2",
+ "build": "2026-11-06 14:29 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "3e8fc9fd67c3a16aa06e5dd104532e6a05669286578bc08e18de52179ae185cc",
- "size": 49024089,
- "notes": "0.3.1: 총 소리 31종 적용(발사·장전·볼트·탄피 등)"
+ "sha256": "7ccda37cecd98c7f0143d17a9b346c614f017f99e17aad4fdc82df500bfb31fc",
+ "size": 49026880,
+ "notes": "0.3.2: 좀비 평타(좌클) 3인칭 모션 추가(할퀴기·내려찍기·긁기)"
 }
