@@ -1,8 +1,8 @@
 {
- "version": "0.2.3",
- "build": "2026-11-06 11:21 UTC",
+ "version": "0.2.4",
+ "build": "2026-11-06 11:51 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "45dcfc6523083a3acb3c79f5d04c1e9a14cd09db98d6afc7c801ff23c814213a",
- "size": 48321763,
- "notes": "0.2.3: 메뉴 더블클릭 수정, 구매 확인 창, 다른 플레이어 근접무기 철조각 수정(서버), 음악"
+ "sha256": "127cd7d4cb14aaed7bf1eb0d0116e6ed00d470b0d65307684f52b3eee0a59eb6",
+ "size": 48327296,
+ "notes": "0.2.4: 적 체력 HUD"
 }
