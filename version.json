@@ -1,7 +1,7 @@
 {
- "build": "2026-11-06 08:56 UTC",
+ "build": "2026-11-06 09:21 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "35c24854c4f255fe97bac3689d642fa9e12c61969a3b7286e43791225df85adb",
- "size": 48286105,
- "notes": "메뉴 아이콘 전체를 항목별 그림으로, 보조 동작은 아이콘 버튼, 휴대폰 화면에서 글자 잘림 개선"
+ "sha256": "cc813dc85d4cf28b4402efc1b3bc4ebf0dfba45341bdd05d1a9ac184d2e153a9",
+ "size": 48286400,
+ "notes": "스커머너 감염된 쥐 등 소환 몹 모델이 안 보이던 것, 폭탄 설치·좀비 스킬 뒤 몸통이 삐뚤어져 남던 것 수정"
 }
