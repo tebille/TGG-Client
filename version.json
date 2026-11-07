@@ -1,8 +1,8 @@
 {
- "version": "0.4.5",
- "build": "2026-11-07 09:43 UTC",
+ "version": "0.4.6",
+ "build": "2026-11-07 10:10 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "6eaedd04968c46ed6da78692c1843f1eeeb0039692b6abb3688debdc1a7f6072",
- "size": 50225701,
- "notes": "0.4.5: 설정에 '사격 화면 번쩍임' 세기 추가(0%=끔)"
+ "sha256": "c4ceb645c76c2014c282799c9d6deb4b69782aa82cab6461fc8d4f569ee26017",
+ "size": 50225725,
+ "notes": "0.4.6: 메인 메뉴에 '보급 설정' 타일"
 }
