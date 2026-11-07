@@ -1,8 +1,8 @@
 {
- "version": "0.4.6",
- "build": "2026-11-07 10:10 UTC",
+ "version": "0.5.0",
+ "build": "2026-11-07 12:51 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "c4ceb645c76c2014c282799c9d6deb4b69782aa82cab6461fc8d4f569ee26017",
- "size": 50225725,
- "notes": "0.4.6: 메인 메뉴에 '보급 설정' 타일"
+ "sha256": "c8eaf960c0a20d5fea93c1f59c5b773acd171f54d4545fd34e8df990f0b15181",
+ "size": 50671260,
+ "notes": "0.5.0: 같은 팀 음성 채팅(V 키, 플레이어별 볼륨, 마이크 설정, 말하는 사람 HUD), Shift+Enter 팀/전체 채팅 전환"
 }
