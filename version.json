@@ -1,8 +1,8 @@
 {
- "version": "0.5.0",
- "build": "2026-11-07 12:51 UTC",
+ "version": "0.5.1",
+ "build": "2026-11-07 14:01 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "c8eaf960c0a20d5fea93c1f59c5b773acd171f54d4545fd34e8df990f0b15181",
- "size": 50671260,
- "notes": "0.5.0: 같은 팀 음성 채팅(V 키, 플레이어별 볼륨, 마이크 설정, 말하는 사람 HUD), Shift+Enter 팀/전체 채팅 전환"
+ "sha256": "a1290df3e8a4af66cbc86f69eda1a25a4fc426b1ff7f9cef78bd73363083ba96",
+ "size": 50684068,
+ "notes": "0.5.1: 폭탄 설치·해체 모션 새로(1인칭 바닐라와 같은 위치, 3인칭 손·바닥 폭탄), 발사 모드 전환 키 F"
 }
