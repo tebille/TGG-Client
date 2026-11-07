@@ -1,8 +1,8 @@
 {
- "version": "0.4.1",
- "build": "2026-11-07 06:11 UTC",
+ "version": "0.4.2",
+ "build": "2026-11-07 06:38 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "367be9904d290eae9e86035df0ee2f5395ccdf4da555b8781bb786a6005f9831",
- "size": 50197732,
- "notes": "0.4.1: 채팅 킬로그 꾸미기"
+ "sha256": "6c576d4c09261d964d41c210793c77631627726f1e902196a4ba118e1b4a00a7",
+ "size": 50203730,
+ "notes": "0.4.2: HellHound 오른손 권총·왼손 성혈 수류탄"
 }
