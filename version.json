@@ -1,8 +1,8 @@
 {
- "version": "0.3.9",
- "build": "2026-11-07 04:52 UTC",
+ "version": "0.4.0",
+ "build": "2026-11-07 06:00 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "0eca7fbc7f2078405c1c46e5417684f5cf67d5935385904bc07a0f574647be04",
- "size": 50127374,
- "notes": "0.3.9: 모바일 자동 업데이트 수정"
+ "sha256": "0579cf9fa53400b58da96c62f64ac0fe16d4e32f5c3cc111a7f3c30f9f76991a",
+ "size": 50195208,
+ "notes": "0.4.0: 쿨타임 HUD, 메인 메뉴 일일·주간 퀘스트, 총소리 정리, 새 소총 발사음"
 }
