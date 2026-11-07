@@ -1,8 +1,8 @@
 {
- "version": "0.3.7",
- "build": "2026-11-06 17:35 UTC",
+ "version": "0.3.8",
+ "build": "2026-11-07 03:02 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "fb9ce7a1a6187daa2a69c182d9afd32bf9a9f7b7580c421011d2d0b89a70f892",
- "size": 50123486,
- "notes": "0.3.7: 메뉴 전환 깜빡임 제거, 적·좀비 체력 표시 수정"
+ "sha256": "3d0080da5fcedf736151aa9e2a2d42c7f4b2be4e7602a9d5eed015240402d95f",
+ "size": 50127006,
+ "notes": "0.3.8: Blade-V 크기, 좀비 스킨, 듀얼 무기 왼손 철조각 수정"
 }
