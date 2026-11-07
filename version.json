@@ -1,8 +1,8 @@
 {
- "version": "0.5.1",
- "build": "2026-11-07 14:01 UTC",
+ "version": "0.5.2",
+ "build": "2026-11-07 15:05 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "a1290df3e8a4af66cbc86f69eda1a25a4fc426b1ff7f9cef78bd73363083ba96",
- "size": 50684068,
- "notes": "0.5.1: 폭탄 설치·해체 모션 새로(1인칭 바닐라와 같은 위치, 3인칭 손·바닥 폭탄), 발사 모드 전환 키 F"
+ "sha256": "1f47e2b641f5dbf1f4428ded5be5f09519651d5587d53b82c2e15541c375550a",
+ "size": 50691276,
+ "notes": "0.5.2: 좀비 몸·스코프 조준선이 분홍/검정으로 깨지거나 소리(OST 등)가 안 나던 문제 수정, 음성 채팅 토글 방식, 설정 화면 스크롤"
 }
