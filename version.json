@@ -1,8 +1,8 @@
 {
- "version": "0.4.2",
- "build": "2026-11-07 06:38 UTC",
+ "version": "0.4.3",
+ "build": "2026-11-07 07:27 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "6c576d4c09261d964d41c210793c77631627726f1e902196a4ba118e1b4a00a7",
- "size": 50203730,
- "notes": "0.4.2: HellHound 오른손 권총·왼손 성혈 수류탄"
+ "sha256": "17eb78e1f95c256007066fb7a7cca008ac342cd70151ba5b78e904a31572f26b",
+ "size": 50222840,
+ "notes": "0.4.3: 전기톱류 자세, 변이 모델 잔류 수정"
 }
