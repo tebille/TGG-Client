@@ -1,8 +1,8 @@
 {
- "version": "0.5.2",
- "build": "2026-11-07 15:05 UTC",
+ "version": "0.5.3",
+ "build": "2026-11-07 15:17 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "1f47e2b641f5dbf1f4428ded5be5f09519651d5587d53b82c2e15541c375550a",
- "size": 50691276,
- "notes": "0.5.2: 좀비 몸·스코프 조준선이 분홍/검정으로 깨지거나 소리(OST 등)가 안 나던 문제 수정, 음성 채팅 토글 방식, 설정 화면 스크롤"
+ "sha256": "e647bc9cc6d21418ec513ee62a2dfa3e7da40e977bcbf7365747849c11a78b9b",
+ "size": 50717833,
+ "notes": "0.5.3: Tempest(왼손 하늘색·오른손 빨강)·Vortex Pistols·Mad-IV·Mad-I 양손 총 표시, 쏜 손만 반동·화염"
 }
