@@ -1,8 +1,8 @@
 {
- "version": "0.3.8",
- "build": "2026-11-07 03:02 UTC",
+ "version": "0.3.9",
+ "build": "2026-11-07 04:52 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "3d0080da5fcedf736151aa9e2a2d42c7f4b2be4e7602a9d5eed015240402d95f",
- "size": 50127006,
- "notes": "0.3.8: Blade-V 크기, 좀비 스킨, 듀얼 무기 왼손 철조각 수정"
+ "sha256": "0eca7fbc7f2078405c1c46e5417684f5cf67d5935385904bc07a0f574647be04",
+ "size": 50127374,
+ "notes": "0.3.9: 모바일 자동 업데이트 수정"
 }
