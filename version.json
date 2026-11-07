@@ -1,8 +1,8 @@
 {
- "version": "0.4.3",
- "build": "2026-11-07 07:27 UTC",
+ "version": "0.4.4",
+ "build": "2026-11-07 08:47 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "17eb78e1f95c256007066fb7a7cca008ac342cd70151ba5b78e904a31572f26b",
- "size": 50222840,
- "notes": "0.4.3: 전기톱류 자세, 변이 모델 잔류 수정"
+ "sha256": "83db98c541fa692bda1a04c4c4601a676f1b2d3ab3a070c98e8f7d2a9d48f19a",
+ "size": 50225507,
+ "notes": "0.4.4: FPS 총 조준선 수정(G36·HK416·그로자·X-95·CZ-806·미니건), Zenith-III 쌍수, 변이좀비 브리처 손·걷기 모션·유저 몸 겹침 수정"
 }
