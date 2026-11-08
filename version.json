@@ -1,8 +1,8 @@
 {
- "version": "0.5.3",
- "build": "2026-11-07 15:17 UTC",
+ "version": "0.5.4",
+ "build": "2026-11-08 10:46 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "e647bc9cc6d21418ec513ee62a2dfa3e7da40e977bcbf7365747849c11a78b9b",
- "size": 50717833,
- "notes": "0.5.3: Tempest(왼손 하늘색·오른손 빨강)·Vortex Pistols·Mad-IV·Mad-I 양손 총 표시, 쏜 손만 반동·화염"
+ "sha256": "cc51731199f2f0d5e2cf7fa064e20a6f5cdd6a012cb9537f4c990306c4a36d54",
+ "size": 50729536,
+ "notes": "0.5.4: Mad-I 양손 모션, 인게임 OST 끊김 수정, 자동 업데이트를 켤 때마다 확인·안전하게 교체"
 }
