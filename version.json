@@ -1,8 +1,8 @@
 {
- "version": "0.5.6",
- "build": "2026-11-09 05:10 UTC",
+ "version": "0.5.7",
+ "build": "2026-11-09 08:32 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "27ffa00a8b2864ee22b1fbdeb1cfaa15ba62a3e01e852f600baa36ddd1108479",
- "size": 50767222,
- "notes": "0.5.6: Trike(방패) 1인칭 들고 있는 모습 수정"
+ "sha256": "0cd2aa46e63500b2839ac2fa654b5faa737ddcd66da97eb5e6ed6c684869138c",
+ "size": 50769947,
+ "notes": "0.5.7: 근접무기 7종(Volt of Zeus 등) 총처럼 들던 것 수정, 메뉴 아이콘(할로윈 암호해독기) 염료로 보이던 것 수정, 쇼커 F 전신 파란색 수정·발광 윤곽선"
 }
