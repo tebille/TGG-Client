@@ -1,8 +1,8 @@
 {
- "version": "0.5.9",
- "build": "2026-11-09 11:08 UTC",
+ "version": "0.5.10",
+ "build": "2026-11-09 11:59 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "ecfe95cab8d9f1f4e26d97cca6fa5bd02507e58920c75b386f1f52ccb445370a",
- "size": 50774052,
- "notes": "0.5.9: 한 번 못 읽은 모드 텍스처(분홍·검정 좀비 등)를 5초마다 다시 읽음, 배경음악을 못 불러오면 곡이 끝날 때까지 다시 시도"
+ "sha256": "537b45f1692b15a81a11a42d39a98781e6628e795f7346f50a50026816d3cdc9",
+ "size": 50774100,
+ "notes": "0.5.10: 좀비 변이 키를 컨트롤 설정에서 바꿀 수 있음(기본 Q, 서버와 같음). 예전 '좀비 특수능력(F)' 키는 없어짐"
 }
