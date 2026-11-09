@@ -1,8 +1,8 @@
 {
- "version": "0.5.10",
- "build": "2026-11-09 11:59 UTC",
+ "version": "0.5.11",
+ "build": "2026-11-09 12:13 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "537b45f1692b15a81a11a42d39a98781e6628e795f7346f50a50026816d3cdc9",
- "size": 50774100,
- "notes": "0.5.10: 좀비 변이 키를 컨트롤 설정에서 바꿀 수 있음(기본 Q, 서버와 같음). 예전 '좀비 특수능력(F)' 키는 없어짐"
+ "sha256": "c6b9d03f92658245625b3277c10627c10bf03b1fa26bb7f725790dd018f3fe15",
+ "size": 50774173,
+ "notes": "0.5.11: 좀비 특수스킬(F)과 좀비 변이(Q) 키를 따로 설정"
 }
