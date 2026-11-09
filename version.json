@@ -1,8 +1,8 @@
 {
- "version": "0.5.5",
- "build": "2026-11-08 12:14 UTC",
+ "version": "0.5.6",
+ "build": "2026-11-09 05:10 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "598c8fd36185b4ca36f7609a55c76eb2d00d81a38f25f86d72666353c38047e2",
- "size": 50767185,
- "notes": "0.5.5: 보급 무기 랜덤 5개 중 고르기(숫자키), 무기고 등급 필터, 팀 핑(휠 클릭)"
+ "sha256": "27ffa00a8b2864ee22b1fbdeb1cfaa15ba62a3e01e852f600baa36ddd1108479",
+ "size": 50767222,
+ "notes": "0.5.6: Trike(방패) 1인칭 들고 있는 모습 수정"
 }
