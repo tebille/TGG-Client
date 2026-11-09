@@ -1,8 +1,8 @@
 {
- "version": "0.5.8",
- "build": "2026-11-09 09:42 UTC",
+ "version": "0.5.9",
+ "build": "2026-11-09 11:08 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "e509065caa96d83ddb31ac998405a889afff9aa03c678fb7872070a2281cf225",
- "size": 50771842,
- "notes": "0.5.8: 게임 중 배경음악이 끊기면(렉 등) 끊긴 지점부터 다시 재생 — 서버가 곡을 다시 보낼 때까지 무음이던 문제"
+ "sha256": "ecfe95cab8d9f1f4e26d97cca6fa5bd02507e58920c75b386f1f52ccb445370a",
+ "size": 50774052,
+ "notes": "0.5.9: 한 번 못 읽은 모드 텍스처(분홍·검정 좀비 등)를 5초마다 다시 읽음, 배경음악을 못 불러오면 곡이 끝날 때까지 다시 시도"
 }
