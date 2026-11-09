@@ -1,8 +1,8 @@
 {
- "version": "0.5.7",
- "build": "2026-11-09 08:32 UTC",
+ "version": "0.5.8",
+ "build": "2026-11-09 09:42 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "0cd2aa46e63500b2839ac2fa654b5faa737ddcd66da97eb5e6ed6c684869138c",
- "size": 50769947,
- "notes": "0.5.7: 근접무기 7종(Volt of Zeus 등) 총처럼 들던 것 수정, 메뉴 아이콘(할로윈 암호해독기) 염료로 보이던 것 수정, 쇼커 F 전신 파란색 수정·발광 윤곽선"
+ "sha256": "e509065caa96d83ddb31ac998405a889afff9aa03c678fb7872070a2281cf225",
+ "size": 50771842,
+ "notes": "0.5.8: 게임 중 배경음악이 끊기면(렉 등) 끊긴 지점부터 다시 재생 — 서버가 곡을 다시 보낼 때까지 무음이던 문제"
 }
