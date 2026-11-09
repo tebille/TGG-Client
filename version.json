@@ -1,8 +1,8 @@
 {
- "version": "0.5.11",
- "build": "2026-11-09 12:13 UTC",
+ "version": "0.5.12",
+ "build": "2026-11-09 13:32 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "c6b9d03f92658245625b3277c10627c10bf03b1fa26bb7f725790dd018f3fe15",
- "size": 50774173,
- "notes": "0.5.11: 좀비 특수스킬(F)과 좀비 변이(Q) 키를 따로 설정"
+ "sha256": "3d2a32050d017e8261594fc7d3c92e93425d5d3c76ae42c744e01f37fa8582b3",
+ "size": 50774180,
+ "notes": "0.5.12: 메인 메뉴에 무기 체험 타일"
 }
