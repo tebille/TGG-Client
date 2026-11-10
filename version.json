@@ -1,8 +1,8 @@
 {
- "version": "0.5.12",
- "build": "2026-11-09 13:32 UTC",
+ "version": "0.6.0",
+ "build": "2026-11-10 09:46 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "3d2a32050d017e8261594fc7d3c92e93425d5d3c76ae42c744e01f37fa8582b3",
- "size": 50774180,
- "notes": "0.5.12: 메인 메뉴에 무기 체험 타일"
+ "sha256": "5595e358c3bb3ebde1511d60448e5a8884e30b8cd09725f00c918dedbbd437b9",
+ "size": 50793648,
+ "notes": "모드 폭발·이펙트 복구 및 화려한 폭발 연출(설정: 폭발 이펙트 화려하게/바닐라)"
 }
