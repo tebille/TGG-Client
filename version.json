@@ -1,8 +1,8 @@
 {
- "version": "0.6.0",
- "build": "2026-11-10 09:46 UTC",
+ "version": "0.6.1",
+ "build": "2026-11-10 14:47 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "5595e358c3bb3ebde1511d60448e5a8884e30b8cd09725f00c918dedbbd437b9",
- "size": 50793648,
- "notes": "모드 폭발·이펙트 복구 및 화려한 폭발 연출(설정: 폭발 이펙트 화려하게/바닐라)"
+ "sha256": "4f56cba9ceb32fd76d5eedb7d9b11093a6992bef7e85b05480c6f39d3142468f",
+ "size": 50825269,
+ "notes": "무기 테마별 총구·명중 이펙트, 이모트(B)·퀵슬롯 창(X), 리소스 누락(분홍 텍스처·무음) 수정, 근접 공격 키 C로 이동"
 }
