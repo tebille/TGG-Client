@@ -1,8 +1,8 @@
 {
- "version": "0.6.4",
- "build": "2026-11-11 11:54 UTC",
+ "version": "0.7.0",
+ "build": "2026-11-11 12:30 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "46aea3cecb4c0a18d690fca6bed298442089f52bedb8a4dbfffe76c385ba6c7e",
- "size": 50822342,
- "notes": "폭탄 설치·해체 모션 교체, 메뉴 알림을 HUD 편집에서 옮기기·크기 조절"
+ "sha256": "679e17d41cbe7520d2225d7949e53b1eea5a69703896174d66b0a7138406afdc",
+ "size": 50827056,
+ "notes": "이모트 소품(백기 흔들기: 손에 펄럭이는 깃발)"
 }
