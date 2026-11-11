@@ -1,8 +1,8 @@
 {
- "version": "0.6.1",
- "build": "2026-11-10 14:47 UTC",
+ "version": "0.6.2",
+ "build": "2026-11-11 08:02 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "4f56cba9ceb32fd76d5eedb7d9b11093a6992bef7e85b05480c6f39d3142468f",
- "size": 50825269,
- "notes": "무기 테마별 총구·명중 이펙트, 이모트(B)·퀵슬롯 창(X), 리소스 누락(분홍 텍스처·무음) 수정, 근접 공격 키 C로 이동"
+ "sha256": "b05d8bc484c8bbdd872de2a4096bdd94db265d1b151852ca0465b26297ba2460",
+ "size": 50826922,
+ "notes": "이모트가 좌우로 뒤집혀 재생되던 것 수정(서버·바닐라와 같은 자세)"
 }
