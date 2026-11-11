@@ -1,8 +1,8 @@
 {
- "version": "0.7.0",
- "build": "2026-11-11 12:30 UTC",
+ "version": "0.7.1",
+ "build": "2026-11-11 14:49 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "679e17d41cbe7520d2225d7949e53b1eea5a69703896174d66b0a7138406afdc",
- "size": 50827056,
- "notes": "이모트 소품(백기 흔들기: 손에 펄럭이는 깃발)"
+ "sha256": "1e40e00697281b94fa54c0fba268a9f461f9e8208852ef882b1e2b558219d69c",
+ "size": 50827520,
+ "notes": "백기 깃발을 흰 양털 텍스처로 (체커 무늬로 보이던 것 수정)"
 }
