@@ -1,8 +1,8 @@
 {
- "version": "0.6.3",
- "build": "2026-11-11 08:31 UTC",
+ "version": "0.6.4",
+ "build": "2026-11-11 11:54 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "9784ca05c82f78c6faa3a1a6f14b954c8045952dca9570698e9776c45860072b",
- "size": 50828109,
- "notes": "조준(줌) 토글 옵션 추가 (설정 화면에서 켜기)"
+ "sha256": "46aea3cecb4c0a18d690fca6bed298442089f52bedb8a4dbfffe76c385ba6c7e",
+ "size": 50822342,
+ "notes": "폭탄 설치·해체 모션 교체, 메뉴 알림을 HUD 편집에서 옮기기·크기 조절"
 }
