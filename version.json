@@ -1,8 +1,8 @@
 {
- "version": "0.6.2",
- "build": "2026-11-11 08:02 UTC",
+ "version": "0.6.3",
+ "build": "2026-11-11 08:31 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "b05d8bc484c8bbdd872de2a4096bdd94db265d1b151852ca0465b26297ba2460",
- "size": 50826922,
- "notes": "이모트가 좌우로 뒤집혀 재생되던 것 수정(서버·바닐라와 같은 자세)"
+ "sha256": "9784ca05c82f78c6faa3a1a6f14b954c8045952dca9570698e9776c45860072b",
+ "size": 50828109,
+ "notes": "조준(줌) 토글 옵션 추가 (설정 화면에서 켜기)"
 }
