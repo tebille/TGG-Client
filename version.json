@@ -1,8 +1,8 @@
 {
- "version": "0.7.1",
- "build": "2026-11-11 14:49 UTC",
+ "version": "0.8.0",
+ "build": "2026-11-11 17:23 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "1e40e00697281b94fa54c0fba268a9f461f9e8208852ef882b1e2b558219d69c",
- "size": 50827520,
- "notes": "백기 깃발을 흰 양털 텍스처로 (체커 무늬로 보이던 것 수정)"
+ "sha256": "110e0ca0c4d42826c0ef192f6cdbb9e70b860f3d68cf2d7c64181de4154548c0",
+ "size": 50788050,
+ "notes": "총 개선: 조준 전환이 빨라지고 흔들림이 줄었습니다. 총이 화면 오른쪽 아래로 내려가 십자선을 가리지 않고, 재장전 때 팔이 화면을 덮지 않습니다. 저격 조준경 테두리가 총의 조준경 색을 따릅니다."
 }
