@@ -1,8 +1,8 @@
 {
- "version": "0.8.1",
- "build": "2026-11-13 13:22 UTC",
+ "version": "0.8.2",
+ "build": "2026-11-14 09:27 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "a2f50696df33aefa0a92408c2f76559b839baabbe874cd7d40bda6bde1c695c4",
- "size": 50830394,
- "notes": "신규 무기 PX-HeartBeat35(지원 권총: 1차 세럼 / 2차 전투자극제) 모델·모션 추가, 서버 수치가 바뀐 총 4자루의 타이밍 동기화"
+ "sha256": "e71e9e311735e4c9de5c802f9554be5c46d2f208dcc6836ad62e64928609142b",
+ "size": 50889125,
+ "notes": "신무기 3종 모델: Grappling Launcher, P4X64, WindRuler"
 }
