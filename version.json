@@ -1,8 +1,8 @@
 {
- "version": "0.8.3",
- "build": "2026-11-17 09:48 UTC",
+ "version": "0.8.4",
+ "build": "2026-11-17 10:36 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "e34c21c7e1a38a1514f46c2514d5617bd5fdf1fb2b776ec71cb50085751df58d",
- "size": 50904434,
- "notes": "0.8.3: 숙주 좀비 선택 화면(가운데 카드), 새 라운드 카운트다운(HUD 편집기에서 이동 가능), 서버 타이틀이 카운트다운 칸 위치를 따라감"
+ "sha256": "7a4a7448ea811fba47f3e740a5eed2d9980d94af0ed4188facdc5d0bd1789a08",
+ "size": 50904638,
+ "notes": "0.8.4: 카운트다운 다이얼이 끊긴 카운트를 혼자 세지 않음, 다이얼이 떠 있을 때 안내 문구는 그 아래에 표시"
 }
