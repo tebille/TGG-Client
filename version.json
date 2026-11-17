@@ -1,8 +1,8 @@
 {
- "version": "0.8.4",
- "build": "2026-11-17 10:36 UTC",
+ "version": "0.8.5",
+ "build": "2026-11-17 12:18 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "7a4a7448ea811fba47f3e740a5eed2d9980d94af0ed4188facdc5d0bd1789a08",
- "size": 50904638,
- "notes": "0.8.4: 카운트다운 다이얼이 끊긴 카운트를 혼자 세지 않음, 다이얼이 떠 있을 때 안내 문구는 그 아래에 표시"
+ "sha256": "7ccbdaf75f5c1fd105eaa8cda3f2cdcd6dc1acfc20f5fb58e7d9eb3721e1113f",
+ "size": 50903853,
+ "notes": "0.8.5: 서버 안내 문구(타이틀)를 원래 자리(화면 가운데)에 표시"
 }
