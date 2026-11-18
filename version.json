@@ -1,8 +1,8 @@
 {
- "version": "0.8.6",
- "build": "2026-11-18 05:20 UTC",
+ "version": "0.8.7",
+ "build": "2026-11-18 15:27 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "a061b7929cd5b8d42beb88bba51727180d85e2364468bfd2d1e72103a302e3b8",
- "size": 50945057,
- "notes": "0.8.6: 아포칼립스 총 12종이 모델로 표시됨, 장전 시간 변경 반영"
+ "sha256": "511ed1a4b562658450f1876a169a0f5704b8af223eb11dcbd0fb263883acc3c3",
+ "size": 51035277,
+ "notes": "신무기 BrainHunter·Type-96 대공포 모델, 두 번째 생체통로(갈색) 모델, DarkNight 장전 시간 갱신"
 }
