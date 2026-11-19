@@ -1,8 +1,8 @@
 {
- "version": "0.8.8",
- "build": "2026-11-19 05:49 UTC",
+ "version": "0.8.9",
+ "build": "2026-11-19 09:32 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "257962a2505f50d65168bb7f26a5812f175294fc0bb83c480a6fba07e5d7fe9d",
- "size": 51078751,
- "notes": "Dominator Ω 개편: 반투명 요격 드론·Self-Destruct Sequence 드론 모델"
+ "sha256": "27a1b466efd205ee903e5f301fc6fa1f4325d54c975ae8875cd3f9752a709aa6",
+ "size": 51078808,
+ "notes": "억압과 통제 리메이크 반영(연사·35발·조준 배율), 신무기 조준 설정 정리"
 }
