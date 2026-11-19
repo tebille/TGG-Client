@@ -1,8 +1,8 @@
 {
- "version": "0.8.7",
- "build": "2026-11-18 15:27 UTC",
+ "version": "0.8.8",
+ "build": "2026-11-19 05:49 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "511ed1a4b562658450f1876a169a0f5704b8af223eb11dcbd0fb263883acc3c3",
- "size": 51035277,
- "notes": "신무기 BrainHunter·Type-96 대공포 모델, 두 번째 생체통로(갈색) 모델, DarkNight 장전 시간 갱신"
+ "sha256": "257962a2505f50d65168bb7f26a5812f175294fc0bb83c480a6fba07e5d7fe9d",
+ "size": 51078751,
+ "notes": "Dominator Ω 개편: 반투명 요격 드론·Self-Destruct Sequence 드론 모델"
 }
