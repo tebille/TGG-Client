@@ -1,8 +1,8 @@
 {
- "version": "0.8.11",
- "build": "2026-11-19 12:51 UTC",
+ "version": "0.8.12",
+ "build": "2026-11-20 07:24 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "b4be8a2db1d757c987a40f008a208cb84e2ea55678eb16530f7cec85d158d52d",
- "size": 51105142,
- "notes": "DREAD 외형 추가, 인두검 단계별 달궈짐 모델·열기 효과"
+ "sha256": "320b15f02c07b4b64616f846743d65f29012c655671a3013fa13ace53c482585",
+ "size": 51107624,
+ "notes": "접속 끊김 화면에 HTML 오류가 통째로 나오던 문제, Esc 로 서버 목록"
 }
