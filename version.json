@@ -1,8 +1,8 @@
 {
- "version": "0.8.12",
- "build": "2026-11-20 07:24 UTC",
+ "version": "0.8.13",
+ "build": "2026-11-20 10:15 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "320b15f02c07b4b64616f846743d65f29012c655671a3013fa13ace53c482585",
- "size": 51107624,
- "notes": "접속 끊김 화면에 HTML 오류가 통째로 나오던 문제, Esc 로 서버 목록"
+ "sha256": "d005f7d3d9f4374d2a3fda7d5629257196a01769516dbb28c089db0742688b59",
+ "size": 51110834,
+ "notes": "좀비 리워크: 좀비 모습(초록빛 피부·두 팔 들기·손톱), 좀비 손 하나로 통합, 좀비 장비 전용 화면, 메뉴 화면별 테마(상점·퀘스트·치장·선물함·설정 등)"
 }
