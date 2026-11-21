@@ -1,8 +1,8 @@
 {
- "version": "0.9.0",
- "build": "2026-11-21 14:29 UTC",
+ "version": "0.9.1",
+ "build": "2026-11-21 15:06 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "9122c64cd1aed0f25126c7a8651840e9689210fc8d6e9103fadc2c57391833eb",
- "size": 51113720,
- "notes": "GIGA Fist 처형: 두 사람 이모트(모드에서 두 몸을 기준점에 그리고, 처형 중 시점·1인칭 손을 건드리지 않음, 머리 깨짐 표현)"
+ "sha256": "0a84d08e7b76b266851d116c3f79c8b1805c12d301e4370146935ed64fef5d7f",
+ "size": 51113976,
+ "notes": "두 사람 이모트(GIGA Fist 처형) 중 피해자 몸 부위가 흩어지던 문제 수정"
 }
