@@ -1,8 +1,8 @@
 {
- "version": "0.9.5",
- "build": "2026-11-27 12:58 UTC",
+ "version": "0.9.6",
+ "build": "2026-11-27 14:57 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "0313731e09dd941b5ebdfd7a548712dc5cb3b1cbf9d381fde5ef0936a1a1ba67",
- "size": 51137769,
- "notes": "0.9.5: 이모트가 든 물건(발키리 창)을 모션대로 그림(돌려 쥐기·던지면 사라짐), 발키리 투창 때 본인 3인칭 시점"
+ "sha256": "6a31754b1f8c67e999396fea48410b4bb5e828d7af45f6351a6c6d5fbdd003d9",
+ "size": 51137873,
+ "notes": "0.9.6: 조작 설정에 '무기 버리기 키 스킬' 추가(발키리 투창을 다른 키로 옮길 수 있음)"
 }
