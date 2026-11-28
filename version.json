@@ -1,8 +1,8 @@
 {
- "version": "0.9.6",
- "build": "2026-11-27 14:57 UTC",
+ "version": "0.9.7",
+ "build": "2026-11-28 06:08 UTC",
  "url": "https://raw.githubusercontent.com/tebille/TGG-Client/main/tgg-client.jar",
- "sha256": "6a31754b1f8c67e999396fea48410b4bb5e828d7af45f6351a6c6d5fbdd003d9",
- "size": 51137873,
- "notes": "0.9.6: 조작 설정에 '무기 버리기 키 스킬' 추가(발키리 투창을 다른 키로 옮길 수 있음)"
+ "sha256": "2335c68da2fdaa9dff6aa1726cefdf3b4e9dc70680b2dc14de2a77520b93062f",
+ "size": 51146735,
+ "notes": "대공포(Type-96) 탑승 1인칭 조작 화면: 손잡이를 쥔 양손, 조준 링, 쌍열 포신(사격 중 포신 반동)"
 }
